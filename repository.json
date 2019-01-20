@@ -1,5 +1,5 @@
 {
-  "name": "Community Hass.io Add-ons",
-  "url": "https://github.com/hassio-addons/repository",
-  "maintainer": "Franck Nijhof <frenck@addons.community>"
+  "name": "iantull-fork-sonoff-ewelink",
+  "url": "https://github.com/iantull/HASS-sonoff-ewelink",
+  "maintainer": "iantull <iantull>"
 }
